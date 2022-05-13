@@ -1,0 +1,51 @@
+
+h2{
+  font-size: 40px;
+  text-transform: uppercase;
+}
+.heading{
+  padding-top: 40px;
+  text-align: center;
+  font-weight: 800;
+  max-width: 1500px;
+  margin-bottom: 0px;
+}
+.image{
+  width: 100%;
+  height: auto;
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+
+.about-info{
+  display: flex;
+  font-size: 16px;
+  font-weight: 300;
+  color: grey;
+  margin-top: 30px;
+}
+.para-text{
+  text-align: left;
+  line-height: 1.5em;
+}
+.team-button{
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  font-family: 'montserrat', sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  color: white;
+  width: auto;
+  background-color: grey;
+  border: none;
+  border-radius: 2px;
+  padding: 15px 32px;
+  text-align: center;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.team-button:hover{
+  background-color: #f0f0f0;
+  transition: 0.5s;
+}

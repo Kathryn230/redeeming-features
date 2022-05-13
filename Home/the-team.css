@@ -1,0 +1,15 @@
+
+.team-titles{
+  text-align: left;
+  margin-top: 70px;
+}
+.team-image{
+  max-width: 40rem;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  
+}
+.team-image-block{
+  display: flex;
+  justify-content: center;
+}
